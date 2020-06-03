@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="AppStandards.UIControls.CornerButtons"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AppStandards.UIControls"
+             xmlns:converters="clr-namespace:AppStandards.Converters"
+             xmlns:project="clr-namespace:AppStandards"
+             x:ClassModifier="internal"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <converters:BooleanToVisibility x:Key="BooleanToVisibility"/>
+        <converters:ResizeModeToVisibility x:Key="ResizeModeToVisibility"/>
+        <Style TargetType="Button" x:Key="NormalButton">
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Height" Value="32"/>
+            <Setter Property="Width" Value="32"/>
+            <Setter Property="Margin" Value="0"/>
+            <Setter Property="Padding" Value="0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="BorderThickness" Value="0"/>
+                                <Setter Property="Background" Value="#88000000"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                        <Grid Background="{TemplateBinding Background}">
+                            <ContentPresenter Margin="{TemplateBinding Padding}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="CloseButton" BasedOn="{StaticResource NormalButton}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="BorderThickness" Value="0"/>
+                                <Setter Property="Background" Value="#FFAC3939"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                        <Grid Background="{TemplateBinding Background}">
+                            <ContentPresenter Margin="{TemplateBinding Padding}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <UserControl.Template>
+        <ControlTemplate TargetType="{x:Type UserControl}">
+            <StackPanel SnapsToDevicePixels="True" Orientation="Horizontal" WindowChrome.IsHitTestVisibleInChrome="True">
+                <!--Custom Buttons  e.g. a settings button-->
+                <ContentPresenter WindowChrome.IsHitTestVisibleInChrome="True"></ContentPresenter>
+
+                <!--Miniamize maximize and close buttons-->
+                <Button FontFamily="Marlett" HorizontalAlignment="Right" x:Name="uiMinimizeButton" Click="MinimizeButton_Click"  Visibility="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}, Path=ResizeMode, Converter={StaticResource ResizeModeToVisibility}, ConverterParameter={x:Static project:ButtonType.MinimizeButton}}" Style="{StaticResource NormalButton}">0</Button>
+                <Button FontFamily="Marlett" x:Name="uiMaximizeButton" Click="MaximizeButton_Click" Visibility="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}, Path=ResizeMode, Converter={StaticResource ResizeModeToVisibility}, ConverterParameter={x:Static project:ButtonType.MaximizeButton}}" DataContext="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}" Style="{StaticResource NormalButton}">
+                    <TextBlock>
+                        <TextBlock.Style>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="Text" Value="1"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding WindowState}" Value="Maximized">
+                                        <Setter Property="Text" Value="2"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TextBlock.Style>
+                    </TextBlock>
+                </Button>
+                <Button FontFamily="Segoe UI Symbol" Style="{StaticResource CloseButton}" x:Name="uiCloseButton" Click="CloseButton_Click" Visibility="{Binding RelativeSource={RelativeSource AncestorType={x:Type local:CornerButtons}}, Path=CanCancel, Converter={StaticResource BooleanToVisibility}}"></Button>
+
+            </StackPanel>
+        </ControlTemplate>
+    </UserControl.Template>
+</UserControl>

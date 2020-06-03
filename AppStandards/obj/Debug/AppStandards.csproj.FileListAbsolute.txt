@@ -1,0 +1,29 @@
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\AppStandards.csproj.CoreCompileInputs.cache
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\bin\Debug\AppStandards.dll
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\bin\Debug\AppStandards.pdb
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\AppStandards.dll
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\AppStandards.pdb
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\UI Controls\CornerButtons.g.cs
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\UI Controls\SplashScreen.g.cs
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\AppStandards_MarkupCompile.cache
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\AppStandards_MarkupCompile.lref
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\UI Controls\CornerButtons.baml
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\Styles\MasterStyle.baml
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\UI Controls\SplashScreen.baml
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards\obj\Debug\AppStandards.g.resources
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\bin\Debug\AppStandards.dll
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\bin\Debug\AppStandards.pdb
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\UI Controls\CornerButtons.g.cs
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\UI Controls\SplashScreen.g.cs
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\AppStandards_MarkupCompile.cache
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\AppStandards_MarkupCompile.lref
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\UI Controls\CornerButtons.baml
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\Styles\MasterStyle.baml
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\UI Controls\SplashScreen.baml
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\AppStandards.g.resources
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\AppStandards.csproj.CoreCompileInputs.cache
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\AppStandards.dll
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\AppStandards.pdb
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards\obj\Debug\AppStandards.csprojAssemblyReference.cache

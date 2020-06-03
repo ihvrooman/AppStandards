@@ -1,0 +1,53 @@
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\bin\Release\AppStandards.Test.exe.config
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\bin\Release\AppStandards.Test.exe
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\bin\Release\AppStandards.Test.pdb
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\Views\MainWindow.g.cs
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\App.g.cs
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test_MarkupCompile.cache
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test_MarkupCompile.lref
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\Views\MainWindow.baml
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.g.resources
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.Properties.Resources.resources
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csproj.GenerateResource.cache
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csproj.CoreCompileInputs.cache
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.exe
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.pdb
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\bin\Release\AppStandards.dll
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\bin\Release\AppStandards.pdb
+C:\Users\VroomanI\source\repos\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csproj.CopyComplete
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\bin\Release\AppStandards.Test.exe.config
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\bin\Release\AppStandards.Test.exe
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\bin\Release\AppStandards.Test.pdb
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\bin\Release\AppStandards.dll
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\bin\Release\AppStandards.pdb
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csprojAssemblyReference.cache
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\Views\MainWindow.g.cs
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\App.g.cs
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test_MarkupCompile.cache
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test_MarkupCompile.lref
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\Views\MainWindow.baml
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.g.resources
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.Properties.Resources.resources
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csproj.GenerateResource.cache
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csproj.CoreCompileInputs.cache
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csproj.CopyComplete
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.exe
+C:\Users\VroomanI\Documents\Source\GIT Repo\Support Applications\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.pdb
+C:\Source\Personal\AppStandards\AppStandards.Test\bin\Release\AppStandards.Test.exe.config
+C:\Source\Personal\AppStandards\AppStandards.Test\bin\Release\AppStandards.Test.exe
+C:\Source\Personal\AppStandards\AppStandards.Test\bin\Release\AppStandards.Test.pdb
+C:\Source\Personal\AppStandards\AppStandards.Test\bin\Release\AppStandards.dll
+C:\Source\Personal\AppStandards\AppStandards.Test\bin\Release\AppStandards.pdb
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csprojAssemblyReference.cache
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\Views\MainWindow.g.cs
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\App.g.cs
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test_MarkupCompile.cache
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test_MarkupCompile.lref
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\Views\MainWindow.baml
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.g.resources
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.Properties.Resources.resources
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csproj.GenerateResource.cache
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csproj.CoreCompileInputs.cache
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.csproj.CopyComplete
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.exe
+C:\Source\Personal\AppStandards\AppStandards.Test\obj\Release\AppStandards.Test.pdb
